@@ -1,0 +1,6 @@
+11
+13
+17
+19
+sum of prime numbers60
+average of prime numbers3
